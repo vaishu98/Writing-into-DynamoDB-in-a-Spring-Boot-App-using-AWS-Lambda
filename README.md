@@ -1,0 +1,1 @@
+# Writing-into-DynamoDB-in-a-Spring-Boot-App-using-AWS-Lambda
